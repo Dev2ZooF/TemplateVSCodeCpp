@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "MinGW (64Bits)",
+            "includePath": [
+                "${workspaceFolder}/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.17763.0",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "C:/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/g++.exe",
+            "compilerArgs": [
+                "-llibconfig4cpp"
+            ]
+        }
+    ],
+    "version": 4
+}
